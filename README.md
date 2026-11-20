@@ -1,1 +1,2 @@
-# About me
+# Links
+[About](about.md)
