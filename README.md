@@ -1,5 +1,5 @@
-# Links
+# Hin Chung Henry Tsang's website
 
-[About](about.md)
+[About Me](about.md)
 
 [CV](cv.pdf)
