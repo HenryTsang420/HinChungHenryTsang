@@ -2,6 +2,4 @@
 
 [About](about.md)
 
-[Publications](publications.md)
-
 [CV](cv.pdf)
