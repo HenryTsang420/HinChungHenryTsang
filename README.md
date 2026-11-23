@@ -4,4 +4,4 @@
 
 [Publications](publications.md)
 
-[CV](cv.md)
+[CV](cv.pdf)
