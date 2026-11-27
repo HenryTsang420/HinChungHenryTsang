@@ -8,6 +8,6 @@ The focus of my current research is about cluster algebras using combinatorial t
 
 [CV](cv.pdf)
 
-# Links
+# Link
 
-[CLAN (Clusters and their Applications in the North)](https://clan-clusterstructures.github.io)
+[CLAN (Clusters and their Applications in the North)](https://clan-clusterstructures.github.io), my supervisor Jon Wilson is the chief of this research group.
